@@ -1,0 +1,47 @@
+/* Add a subtle background color to the body */
+.body-class {
+  background-color: #ffc1cc;
+}
+
+/* Apply a contrasting color to the header background and change the font color for better visibility */
+.header-class {
+  background-color:#cc0000 ;
+  color: #fffaf0;
+}
+
+/* Style the navigation bar with a different background color and font color. Also, make the active page link bold */
+.nav-class {
+  background-color: #ffef00;
+  color: #0070ff;
+}
+
+.nav-class .nav-link-class:active {
+  font-weight: bold;
+}
+
+/* Apply distinct colors to these heading classes */
+.title-class, .section-title-class {
+  color: #0000ff;
+}
+
+/* Change the font color to something that contrasts well with the background color */
+.text-class {
+  color: #0072bb;
+}
+
+/* Give the images a border with a color that complements the overall design */
+.image-class {
+  border: 3px solid #00FFFF;
+}
+
+/* Style the form fields and submit buttons with colors that are cohesive with the rest of the page */
+.form-class, .button-class {
+  background-color: #fff;
+  color: #333;
+}
+
+/* Give the footer a distinct background and font color */
+.footer-class {
+  background-color: #ffebcd;
+  color: #fff;
+}
